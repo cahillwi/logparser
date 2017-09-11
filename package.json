@@ -1,0 +1,19 @@
+{
+  "name": "logparser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testparser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^1.1.7",
+    "replacestream": "^4.0.2"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.2",
+    "should": "^13.0.1"
+  }
+}
